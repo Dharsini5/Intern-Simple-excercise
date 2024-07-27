@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico');
+
+/* external css */
+
+
+summary {
+    color: blueviolet;
+    font-family: 'Pacifico', cursive;
+}
+
+h4 {
+    color: hotpink !important;
+    margin: 100px;
+    padding: 15px;
+    outline: whitesmoke solid 10px;
+    text-shadow: 0 0 10px lightblue;
+    background: linear-gradient(to right, lavender, lavenderblush);
+}
+
+p {
+    color: steelblue;
+    margin: 50px;
+    padding: 50px;
+    text-indent: 50px;
+    letter-spacing: 2px;
+    /*line-height: 2px;*/
+}
+
+a {
+    margin-left: 60px;
+    color: black;
+    text-decoration: none;
+    cursor: url(https://i.pinimg.com/236x/98/29/e2/9829e2567e2763962a95bca6b7434fb6.jpg)!important;
+}
+
+a:visited {
+    color: orange;
+}
+
+a:active {
+    color: grey;
+}
+
+ul li {
+    color: lavenderblush;
+}
+
+span {
+    color: black;
+    display: block;
+}
